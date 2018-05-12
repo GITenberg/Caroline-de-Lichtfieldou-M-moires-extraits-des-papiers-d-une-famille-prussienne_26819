@@ -21,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Isabelle_de_Montolieu
     - http://en.wikipedia.org/wiki/Isabelle_de_Montolieu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26819#Caroline-de-Lichtfieldou-M-moires-extraits-des-papiers-d-une-famille-prussienne
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
