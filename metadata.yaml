@@ -1,0 +1,37 @@
+_repo: Caroline-de-Lichtfieldou-M-moires-extraits-des-papiers-d-une-famille-prussienne_26819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montolieu, Isabelle de
+    aliases:
+    - Montolieu, Elisabeth Jeanne Pauline Polier, baronne de
+    - De Montolieu, Isabelle
+    - Polier, Pauline
+    - Bottens, Jeanne Isabelle Pauline de
+    - Montolieu, Madame de (Isabelle)
+    - Montolieu, Jeanne Isabelle Pauline Polier, baronne de
+    birthdate: 1751
+    deathdate: 1832
+    gutenberg_agent_id: '7839'
+    url: http://www.gutenberg.org/2009/agents/7839
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Isabelle_de_Montolieu
+    - http://en.wikipedia.org/wiki/Isabelle_de_Montolieu
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26819'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Young women -- Fiction'
+title: "Caroline de Lichtfield\r\nou Mémoires extraits des papiers d'une famille prussienne"
+url: http://www.gutenberg.org/ebooks/26819
